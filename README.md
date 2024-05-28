@@ -29,4 +29,4 @@ This script is intended for generating a wordlist based on some specific words.
 1. python3 mycrunch.py -w words.txt -min 1 -max 1 -s @#$ --positions 0,2 -o output.txt
 2. python3 mycrunch.py -p alex, 3234, boom, 2004, aflek_justin -min 2 -max 5 -s @^&
 
-> This project is inspired by crunch and a simpler version of it for this specific use
+> This project is inspired by crunch and is a simpler version of it for this specific use
